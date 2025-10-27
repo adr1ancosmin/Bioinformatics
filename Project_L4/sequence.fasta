@@ -1,0 +1,11 @@
+>seq1_human_insulin_cds (starts with AUG)
+AUGGCCAUGGCGCCCAGAACUUGAUGCGUAGUUU
+>seq2_human_p53_fragment (DNA, with 'T's and line breaks)
+GGGAGCAGGGCTCACTCCAGCCACCTGAAGTCCAAAAAGGGTCAGTCTACCT
+CCCGCCATAAAAAACTCATGTTCAAGACAGAAGGGCCTGACTCAGACTGA
+>seq3_short_with_stop (will stop early)
+AUGAGGUAUUAGGCGUGA
+>seq4_no_start_codon (will translate from start)
+UUUCCCAUAGGAGUGCCU
+>seq5_incomplete_codon (final 'G' will be ignored)
+AUGCCCUUUAAAG
