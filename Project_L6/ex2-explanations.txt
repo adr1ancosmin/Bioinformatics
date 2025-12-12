@@ -1,0 +1,46 @@
+EcoRI digest results
+====================
+
+DNA01  (len 13520 bp)
+  bands: 7
+  sizes (bp): 4064, 2900, 2363, 1746, 1389, 764, 294
+
+DNA02  (len 13280 bp)
+  bands: 4
+  sizes (bp): 6043, 3820, 2169, 1248
+
+DNA03  (len 13840 bp)
+  bands: 6
+  sizes (bp): 7215, 2860, 2606, 505, 376, 278
+
+DNA04  (len 13410 bp)
+  bands: 5
+  sizes (bp): 4638, 3702, 2068, 1707, 1295
+
+DNA05  (len 13660 bp)
+  bands: 6
+  sizes (bp): 4930, 2870, 2459, 1498, 1142, 761
+
+DNA06  (len 13190 bp)
+  bands: 4
+  sizes (bp): 5353, 4622, 2958, 257
+
+DNA07  (len 13750 bp)
+  bands: 4
+  sizes (bp): 5143, 4153, 3413, 1041
+
+DNA08  (len 13330 bp)
+  bands: 6
+  sizes (bp): 6377, 3535, 1566, 1190, 517, 145
+
+DNA09  (len 13570 bp)
+  bands: 2
+  sizes (bp): 7172, 6398
+
+DNA10  (len 13240 bp)
+  bands: 6
+  sizes (bp): 4487, 4056, 2414, 1354, 789, 140
+
+Most fragments: DNA01 (7)
+Gel image: lab6_ex2_output\ecoRI_gel.png
+Overlay plot: lab6_ex2_output\ecoRI_fragments_overlay.png

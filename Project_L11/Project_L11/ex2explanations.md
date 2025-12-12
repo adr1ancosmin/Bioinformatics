@@ -1,0 +1,4 @@
+I downloaded the Influenza A HA segment (NC_002026.1) and the SARS-CoV-2 reference genome (NC_045512.2) directly from NCBI using the EFetch web API in Python.
+To align the two genomes we implemented the Smith–Waterman local alignment algorithm with match = 2, mismatch = −1 and gap = −2.
+Because the sequences are long and of very different size, we introduced an intermediate “chunking” layer: we divided the genomes into large regions of 2000 bp and performed local alignment separately on each region.
+For each region we obtained the best local alignment, its score and approximate similarity, and then compared these regional results to see if there are conserved segments between the influenza and SARS-CoV-2 genomes.
