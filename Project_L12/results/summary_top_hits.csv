@@ -1,0 +1,11 @@
+accession,ncbi_id,length,best_start_1based,best_score,scores_csv,plot_png,header
+AB818503.1,480540219,2309,708,5.309296828892096,results\AB818503.1_scores.csv,results\AB818503.1_signal.png,">AB818503.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 2, complete genome"
+AB818495.1,480540200,2309,708,5.309296828892096,results\AB818495.1_scores.csv,results\AB818495.1_signal.png,">AB818495.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 2, complete genome"
+AB827991.1,514236644,1742,1200,5.155146149064838,results\AB827991.1_scores.csv,results\AB827991.1_signal.png,">AB827991.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 4, complete genome"
+AB827993.1,514236648,1362,516,4.972824592270883,results\AB827993.1_scores.csv,results\AB827993.1_signal.png,">AB827993.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 6, complete genome"
+AB827988.1,514236637,2308,1991,4.749681040956673,results\AB827988.1_scores.csv,results\AB827988.1_signal.png,">AB827988.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 1, complete genome"
+AB827989.1,514236639,2309,165,4.297695917213615,results\AB827989.1_scores.csv,results\AB827989.1_signal.png,">AB827989.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 2, complete genome"
+AB827992.1,514236646,1529,124,4.19006525302125,results\AB827992.1_scores.csv,results\AB827992.1_signal.png,">AB827992.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 5, complete genome"
+AB827990.1,514236642,2200,277,4.056533860396727,results\AB827990.1_scores.csv,results\AB827990.1_signal.png,">AB827990.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 3, complete genome"
+AB827994.1,514236650,992,34,3.9230024677722053,results\AB827994.1_scores.csv,results\AB827994.1_signal.png,">AB827994.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 7, complete genome"
+AB827995.1,514236653,840,39,3.4811697154931656,results\AB827995.1_scores.csv,results\AB827995.1_signal.png,">AB827995.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 8, complete genome"
